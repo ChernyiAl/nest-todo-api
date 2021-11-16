@@ -5,6 +5,6 @@
   "username": "mysql",
   "password": "mysql",
   "database": "todolist",
-  "entities": [],
+  "entities": ["dist/**/*.entity{.ts,.js}"],
   "synchronize": true
 }
